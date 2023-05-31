@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Team
+comment0.text=\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ Team\ aqui.\n\ \n\ @author\ (seu\ nome)\ \n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\n
+comment1.params=teamName\ trainer\ players
+comment1.target=Team(java.lang.String,\ java.util.ArrayList,\ java.util.ArrayList)
+comment1.text=\n\ Construtor\ para\ objetos\ da\ classe\ Team\n
+comment2.params=
+comment2.target=Team()
+comment3.params=
+comment3.target=void\ showMenuTeam()
+comment4.params=trainers\ players
+comment4.target=void\ makeTeam(java.util.ArrayList,\ java.util.ArrayList)
+comment5.params=
+comment5.target=TeamLevel\ getTeamLevel()
+numComments=6
